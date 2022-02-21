@@ -11,7 +11,7 @@ You can find [Backup Faucets here](https://docs.chain.link/docs/link-token-contr
 </p>
 <br/>
 
-Welcome to the repository for the Ultimate Solidity, Blockchain, and Smart Contract - [ ] Beginner to Expert Full Course | Python Edition FreeCodeCamp course!
+Welcome to the repository for the Ultimate Solidity, Blockchain, and Smart Contract - Beginner to Expert Full Course | Python Edition FreeCodeCamp course!
 
 # Table of Contents
 - [Table of Contents](#table-of-contents)
@@ -108,7 +108,7 @@ Welcome to the repository for the Ultimate Solidity, Blockchain, and Smart Contr
 
 # Lesson 0: Welcome To Blockchain
 ## What is a Blockchain?
-- [ ] [Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf)
+- [x] [Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf)
 - [ ] [Ethereum Whitepaper](https://ethereum.org/en/whitepaper/)
 - [ ] [Hybrid Smart Contracts](https://blog.chain.link/hybrid-smart-contracts-explained/)
 - [ ] [Blockchain Oracles](https://betterprogramming.pub/what-is-a-blockchain-oracle-f5ccab8dbd72?source=friends_link&sk=d921a38466df8a9176ed8dd767d8c77d)
