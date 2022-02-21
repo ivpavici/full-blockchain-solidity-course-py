@@ -91,20 +91,20 @@ Welcome to the repository for the Ultimate Solidity, Blockchain, and Smart Contr
 
 # Resources For This Course
 ### Questions
-- [ ] [Github Discussions](https://github.com/smartcontractkit/full-blockchain-solidity-course-py/discussions)
-  - [ ] Ask questions and chat about the course here!
-- [ ] [Stack Exchange Ethereum](https://ethereum.stackexchange.com/)
-  - [ ] Great place for asking technical questions about Ethereum
-- [ ] [StackOverflow](https://stackoverflow.com/)
-  - [ ] Great place for asking technical questions overall
+- [Github Discussions](https://github.com/smartcontractkit/full-blockchain-solidity-course-py/discussions)
+  - Ask questions and chat about the course here!
+- [Stack Exchange Ethereum](https://ethereum.stackexchange.com/)
+  - Great place for asking technical questions about Ethereum
+- [StackOverflow](https://stackoverflow.com/)
+  - Great place for asking technical questions overall
 
 ### Windows Support
-- [ ] [Setup your windows environment](https://medium.com/@cromewar/how-to-setup-windows-10-11-for-smart-contract-development-and-brownie-e7d8d13555b3)
-  - [ ] Learn how to install all the tools you will need for this course on a windows machine
+- [Setup your windows environment](https://medium.com/@cromewar/how-to-setup-windows-10-11-for-smart-contract-development-and-brownie-e7d8d13555b3)
+  - Learn how to install all the tools you will need for this course on a windows machine
 
 ### Hiccups/Issues from the Video
-- [ ] [Chronological Issues from the Video](https://github.com/smartcontractkit/full-blockchain-solidity-course-py/blob/main/chronological-issues-from-video.md)
-    - [ ] A list of known hiccups/issues you may encounter while implementing the content from the video
+- [Chronological Issues from the Video](https://github.com/smartcontractkit/full-blockchain-solidity-course-py/blob/main/chronological-issues-from-video.md)
+    - A list of known hiccups/issues you may encounter while implementing the content from the video
 
 # Lesson 0: Welcome To Blockchain
 ## What is a Blockchain?
