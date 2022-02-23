@@ -19,15 +19,15 @@ Welcome to the repository for the Ultimate Solidity, Blockchain, and Smart Contr
 - [x] [Ethereum Whitepaper](https://ethereum.org/en/whitepaper/)
 - [x] [Hybrid Smart Contracts](https://blog.chain.link/hybrid-smart-contracts-explained/)
 - [x] [Blockchain Oracles](https://betterprogramming.pub/what-is-a-blockchain-oracle-f5ccab8dbd72?source=friends_link&sk=d921a38466df8a9176ed8dd767d8c77d)
-- [ ] [What is a blockchain](https://www.investopedia.com/terms/b/blockchain.asp)
+- [x] [What is a blockchain](https://www.investopedia.com/terms/b/blockchain.asp)
 ## Making Your First Transaction
-- [ ] [Metamask](https://metamask.io/)
-- [ ] [Etherscan](https://etherscan.io/)
-- [ ] [Rinkeby Etherscan](https://rinkeby.etherscan.io/)
-- [ ] [Kovan Etherscan](https://kovan.etherscan.io/)
-- [ ] Rinkeby Faucet (Check the [link token contracts page](https://docs.chain.link/docs/link-token-contracts/#rinkeby))
-  - [ ] NOTE: The Chainlink documentation always has the most up to date faucets on their [link token contracts page](https://docs.chain.link/docs/link-token-contracts/#rinkeby). If the faucet above is broken, check the chainlink documentation for the most up to date faucet.  
-- [ ] OR, use the [Kovan ETH Faucet](https://faucets.chain.link/), just be sure to swap your metamask to kovan!
+- [x] [Metamask](https://metamask.io/)
+- [x] [Etherscan](https://etherscan.io/)
+- [x] [Rinkeby Etherscan](https://rinkeby.etherscan.io/)
+- [x] [Kovan Etherscan](https://kovan.etherscan.io/)
+- [x] Rinkeby Faucet (Check the [link token contracts page](https://docs.chain.link/docs/link-token-contracts/#rinkeby))
+  - NOTE: The Chainlink documentation always has the most up to date faucets on their [link token contracts page](https://docs.chain.link/docs/link-token-contracts/#rinkeby). If the faucet above is broken, check the chainlink documentation for the most up to date faucet.  
+  - OR, use the [Kovan ETH Faucet](https://faucets.chain.link/), just be sure to swap your metamask to kovan!
 - [ ] [Gas and Gas Fees](https://ethereum.org/en/developers/docs/gas/)
 - [ ] [Wei, Gwei, and Ether Converter](https://eth-converter.com/)
 - [ ] [ETH Gas Station](https://ethgasstation.info/)
