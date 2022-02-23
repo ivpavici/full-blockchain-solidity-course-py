@@ -13,105 +13,12 @@ You can find [Backup Faucets here](https://docs.chain.link/docs/link-token-contr
 
 Welcome to the repository for the Ultimate Solidity, Blockchain, and Smart Contract - Beginner to Expert Full Course | Python Edition FreeCodeCamp course!
 
-# Table of Contents
-- [Table of Contents](#table-of-contents)
-- [Resources For This Course](#resources-for-this-course)
-    - [Questions](#questions)
-    - [Windows Support](#windows-support)
-    - [Hiccups/Issues from the Video](#hiccupsissues-from-the-video)
-- [Lesson 0: Welcome To Blockchain](#lesson-0-welcome-to-blockchain)
-  - [What is a Blockchain?](#what-is-a-blockchain)
-  - [Making Your First Transaction](#making-your-first-transaction)
-  - [How Do Blockchains Work?](#how-do-blockchains-work)
-    - [Consensus](#consensus)
-  - [The Future](#the-future)
-  - [Miscellaneous](#miscellaneous)
-- [Lesson 1: Welcome to Remix! Simple Storage](#lesson-1-welcome-to-remix-simple-storage)
-    - [Everything in this section can be read about in the Solidity Documentation](#everything-in-this-section-can-be-read-about-in-the-solidity-documentation)
-    - [Remix](#remix)
-    - [Basic Solidity](#basic-solidity)
-    - [Deploying to a "Live" network](#deploying-to-a-live-network)
-- [Lesson 2: Storage Factory](#lesson-2-storage-factory)
-    - [Inheritance, Factory Pattern, and Interacting with External Contracts](#inheritance-factory-pattern-and-interacting-with-external-contracts)
-- [Lesson 3: Fund Me](#lesson-3-fund-me)
-    - [Payable, msg.sender, msg.value, Units of Measure](#payable-msgsender-msgvalue-units-of-measure)
-    - [Chainlink Oracles](#chainlink-oracles)
-    - [Importing from NPM and Advanced Solidity](#importing-from-npm-and-advanced-solidity)
-- [Lesson 4: Web3.py Simple Storage](#lesson-4-web3py-simple-storage)
-    - [Installing VSCode, Python, and Web3](#installing-vscode-python-and-web3)
-    - [Our First Python Script with Web3.py - [ ] Deploying a Contract](#our-first-python-script-with-web3py---deploying-a-contract)
-    - [Interacting with Our Contract in Python & Web3.py](#interacting-with-our-contract-in-python--web3py)
-- [Lesson 5: Brownie Simple Storage](#lesson-5-brownie-simple-storage)
-    - [Brownie Introduction](#brownie-introduction)
-    - [Installing Brownie](#installing-brownie)
-    - [Brownie Simple Storage Project](#brownie-simple-storage-project)
-    - [Testing Basics](#testing-basics)
-    - [[Brownie console]](#brownie-console)
-- [Lesson 6: Brownie Fund Me](#lesson-6-brownie-fund-me)
-    - [Introduction](#introduction)
-    - [Dependencies, Deploying, and Networks](#dependencies-deploying-and-networks)
-    - [Funding and Withdrawing Python Scripts](#funding-and-withdrawing-python-scripts)
-    - [Testing across networks](#testing-across-networks)
-    - [Git](#git)
-- [Lesson 7: SmartContract Lottery](#lesson-7-smartcontract-lottery)
-    - [Introduction](#introduction-1)
-    - [`Lottery.sol`](#lotterysol)
-    - [Testing Lottery.sol](#testing-lotterysol)
-    - [Lottery.sol Testnet Deployment](#lotterysol-testnet-deployment)
-- [Lesson 8: Chainlink Mix](#lesson-8-chainlink-mix)
-  - [Brownie Mixes](#brownie-mixes)
-- [Lesson 9: ERC20s, EIPs, and Token Standards](#lesson-9-erc20s-eips-and-token-standards)
-- [Lesson 10: Defi & Aave](#lesson-10-defi--aave)
-    - [Defi Intro](#defi-intro)
-    - [Aave UI](#aave-ui)
-    - [Programmatic Interactions with Aave](#programmatic-interactions-with-aave)
-    - [Testing](#testing)
-- [Lesson 11: NFTs](#lesson-11-nfts)
-    - [Non-Technical Explainer](#non-technical-explainer)
-    - [Simple NFT](#simple-nft)
-    - [SimpleCollectible Testing](#simplecollectible-testing)
-    - [Advanced NFT](#advanced-nft)
-    - [Advanced deploy_and_create](#advanced-deploy_and_create)
-    - [Creating Metadata & IPFS](#creating-metadata--ipfs)
-- [Lesson 12: Upgrades](#lesson-12-upgrades)
-    - [Introduction to upgrading smart contracts](#introduction-to-upgrading-smart-contracts)
-    - [Upgrades-mix and code](#upgrades-mix-and-code)
-    - [Testing Upgrades](#testing-upgrades)
-    - [Upgrades on a testnet](#upgrades-on-a-testnet)
-- [Bonus Lesson 13: Full Stack Defi](#bonus-lesson-13-full-stack-defi)
-    - [Defi Stake Yield Brownie Scripts & Tests](#defi-stake-yield-brownie-scripts--tests)
-    - [Testing our Defi Stake Yield Brownie Dapp](#testing-our-defi-stake-yield-brownie-dapp)
-    - [Front End / Full Stack](#front-end--full-stack)
-- [Closing and Summary](#closing-and-summary)
-  - [Security](#security)
-  - [Where do I go now?](#where-do-i-go-now)
-    - [Learning More](#learning-more)
-    - [Community](#community)
-    - [Hackathons](#hackathons)
-
-# Resources For This Course
-### Questions
-- [Github Discussions](https://github.com/smartcontractkit/full-blockchain-solidity-course-py/discussions)
-  - Ask questions and chat about the course here!
-- [Stack Exchange Ethereum](https://ethereum.stackexchange.com/)
-  - Great place for asking technical questions about Ethereum
-- [StackOverflow](https://stackoverflow.com/)
-  - Great place for asking technical questions overall
-
-### Windows Support
-- [Setup your windows environment](https://medium.com/@cromewar/how-to-setup-windows-10-11-for-smart-contract-development-and-brownie-e7d8d13555b3)
-  - Learn how to install all the tools you will need for this course on a windows machine
-
-### Hiccups/Issues from the Video
-- [Chronological Issues from the Video](https://github.com/smartcontractkit/full-blockchain-solidity-course-py/blob/main/chronological-issues-from-video.md)
-    - A list of known hiccups/issues you may encounter while implementing the content from the video
-
 # Lesson 0: Welcome To Blockchain
 ## What is a Blockchain?
 - [x] [Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf)
 - [x] [Ethereum Whitepaper](https://ethereum.org/en/whitepaper/)
 - [x] [Hybrid Smart Contracts](https://blog.chain.link/hybrid-smart-contracts-explained/)
-- [ ] [Blockchain Oracles](https://betterprogramming.pub/what-is-a-blockchain-oracle-f5ccab8dbd72?source=friends_link&sk=d921a38466df8a9176ed8dd767d8c77d)
+- [x] [Blockchain Oracles](https://betterprogramming.pub/what-is-a-blockchain-oracle-f5ccab8dbd72?source=friends_link&sk=d921a38466df8a9176ed8dd767d8c77d)
 - [ ] [What is a blockchain](https://www.investopedia.com/terms/b/blockchain.asp)
 ## Making Your First Transaction
 - [ ] [Metamask](https://metamask.io/)
@@ -793,7 +700,7 @@ Shoutout to [Matt](https://twitter.com/mdurkin92) for the help on the front end!
   - [ ] [Trail of Bits](https://www.trailofbits.com/)
 ## Where do I go now?
 ### Learning More
-- [ ] [CryptoZombies](https://cryptozombies.io/)
+- [x] [CryptoZombies](https://cryptozombies.io/)
 - [ ] [Dapp University](https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ)
 - [ ] [ChainShot](https://www.chainshot.com/courses)
 - [ ] [Ivan on Tech](https://academy.ivanontech.com/)
@@ -803,16 +710,16 @@ Shoutout to [Matt](https://twitter.com/mdurkin92) for the help on the front end!
 - [ ] [Nader Dabit](https://www.youtube.com/user/boyindasouth)
 - [ ] [Ethereum.org](https://ethereum.org/en/)
 ### Community
-- [ ] Twitter
-- [ ] [Brownie Discord](https://discord.gg/9zk7snTfWe)
-- [ ] [Ethereum Discord](https://ethereum.org/en/)
-- [ ] [Chainlink Discord](https://discord.gg/2YHSAey)
-- [ ] [Reddit ethdev](https://www.reddit.com/r/ethdev/)
+- Twitter
+- [Brownie Discord](https://discord.gg/9zk7snTfWe)
+- [Ethereum Discord](https://ethereum.org/en/)
+- [Chainlink Discord](https://discord.gg/2YHSAey)
+- [Reddit ethdev](https://www.reddit.com/r/ethdev/)
 
 ### Hackathons
-  - [ ] [CL Hackathon](https://chain.link/hackathon)
-  - [ ] [ETH Global](https://ethglobal.co/)
-  - [ ] [ETH India](https://twitter.com/ETHIndiaco)
+  - [CL Hackathon](https://chain.link/hackathon)
+  - [ETH Global](https://ethglobal.co/)
+  - [ETH India](https://twitter.com/ETHIndiaco)
 
 Be sure to check out project grant programs!
 
