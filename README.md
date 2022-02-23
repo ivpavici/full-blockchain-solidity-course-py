@@ -28,16 +28,16 @@ Welcome to the repository for the Ultimate Solidity, Blockchain, and Smart Contr
 - [x] Rinkeby Faucet (Check the [link token contracts page](https://docs.chain.link/docs/link-token-contracts/#rinkeby))
   - NOTE: The Chainlink documentation always has the most up to date faucets on their [link token contracts page](https://docs.chain.link/docs/link-token-contracts/#rinkeby). If the faucet above is broken, check the chainlink documentation for the most up to date faucet.  
   - OR, use the [Kovan ETH Faucet](https://faucets.chain.link/), just be sure to swap your metamask to kovan!
-- [ ] [Gas and Gas Fees](https://ethereum.org/en/developers/docs/gas/)
-- [ ] [Wei, Gwei, and Ether Converter](https://eth-converter.com/)
-- [ ] [ETH Gas Station](https://ethgasstation.info/)
+- [x] [Gas and Gas Fees](https://ethereum.org/en/developers/docs/gas/)
+- [x] [Wei, Gwei, and Ether Converter](https://eth-converter.com/)
+- [x] [ETH Gas Station](https://ethgasstation.info/)
 ## How Do Blockchains Work? 
 - [ ] [Blockchain Demo](https://andersbrownworth.com/blockchain/)
-- [ ] [Public / Private Keys](https://andersbrownworth.com/blockchain/public-private-keys/keys)
+- [x] [Public / Private Keys](https://andersbrownworth.com/blockchain/public-private-keys/keys)
 - [ ] [Layer 2 and Rollups](https://ethereum.org/en/developers/docs/scaling/layer-2-rollups/)
 - [ ] [Decentralized Blockchain Oracles](https://blog.chain.link/what-is-the-blockchain-oracle-problem/)
-- [ ] [Block Rewards](https://www.investopedia.com/terms/b/block-reward.asp)
-- [ ] [Run Your Own Ethereum Node](https://geth.ethereum.org/docs/getting-started)
+- [x] [Block Rewards](https://www.investopedia.com/terms/b/block-reward.asp)
+- [x] [Run Your Own Ethereum Node](https://geth.ethereum.org/docs/getting-started)
 ### Consensus
 - [ ] [Consensus](https://wiki.polkadot.network/docs/learn-consensus)
 - [ ] [Proof of Stake](https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/)
