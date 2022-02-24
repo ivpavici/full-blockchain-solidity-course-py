@@ -34,8 +34,8 @@ Welcome to the repository for the Ultimate Solidity, Blockchain, and Smart Contr
 ## How Do Blockchains Work? 
 - [ ] [Blockchain Demo](https://andersbrownworth.com/blockchain/)
 - [x] [Public / Private Keys](https://andersbrownworth.com/blockchain/public-private-keys/keys)
-- [ ] [Layer 2 and Rollups](https://ethereum.org/en/developers/docs/scaling/layer-2-rollups/)
-- [ ] [Decentralized Blockchain Oracles](https://blog.chain.link/what-is-the-blockchain-oracle-problem/)
+- [x] [Layer 2 and Rollups](https://ethereum.org/en/developers/docs/scaling/layer-2-rollups/)
+- [x] [Decentralized Blockchain Oracles](https://blog.chain.link/what-is-the-blockchain-oracle-problem/)
 - [x] [Block Rewards](https://www.investopedia.com/terms/b/block-reward.asp)
 - [x] [Run Your Own Ethereum Node](https://geth.ethereum.org/docs/getting-started)
 ### Consensus
