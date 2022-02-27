@@ -39,9 +39,9 @@ Welcome to the repository for the Ultimate Solidity, Blockchain, and Smart Contr
 - [x] [Block Rewards](https://www.investopedia.com/terms/b/block-reward.asp)
 - [x] [Run Your Own Ethereum Node](https://geth.ethereum.org/docs/getting-started)
 ### Consensus
-- [ ] [Consensus](https://wiki.polkadot.network/docs/learn-consensus)
-- [ ] [Proof of Stake](https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/)
-- [ ] [Proof of Work](https://ethereum.org/en/developers/docs/consensus-mechanisms/pow/)
+- [x] [Consensus](https://wiki.polkadot.network/docs/learn-consensus)
+- [x] [Proof of Stake](https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/)
+- [x] [Proof of Work](https://ethereum.org/en/developers/docs/consensus-mechanisms/pow/)
 - [ ] [Nakamoto Consensus](https://blockonomi.com/nakamoto-consensus/)
 ## The Future
 - [ ] [Ethereum 2](https://ethereum.org/en/eth2/)
