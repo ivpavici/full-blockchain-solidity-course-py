@@ -42,11 +42,11 @@ Welcome to the repository for the Ultimate Solidity, Blockchain, and Smart Contr
 - [x] [Consensus](https://wiki.polkadot.network/docs/learn-consensus)
 - [x] [Proof of Stake](https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/)
 - [x] [Proof of Work](https://ethereum.org/en/developers/docs/consensus-mechanisms/pow/)
-- [ ] [Nakamoto Consensus](https://blockonomi.com/nakamoto-consensus/)
+- [x] [Nakamoto Consensus](https://blockonomi.com/nakamoto-consensus/)
 ## The Future
-- [ ] [Ethereum 2](https://ethereum.org/en/eth2/)
+- [x] [Ethereum 2](https://ethereum.org/en/eth2/)
 ## Miscellaneous 
-- [ ] [DAOs](https://www.investopedia.com/tech/what-dao/)
+- [x] [DAOs](https://www.investopedia.com/tech/what-dao/)
 # Lesson 1: [Welcome to Remix! Simple Storage](https://github.com/PatrickAlphaC/simple_storage)
 💻 Code: https://github.com/PatrickAlphaC/simple_storage
 ### Everything in this section can be read about in the [Solidity Documentation](https://docs.soliditylang.org/en/v0.8.6/index.html)
