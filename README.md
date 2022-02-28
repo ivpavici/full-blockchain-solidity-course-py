@@ -52,9 +52,9 @@ Welcome to the repository for the Ultimate Solidity, Blockchain, and Smart Contr
 ### Everything in this section can be read about in the [Solidity Documentation](https://docs.soliditylang.org/en/v0.8.6/index.html)
 ### [Remix](https://remix.ethereum.org/)
 ### Basic Solidity
-- [ ] Versioning
-- [ ] Compiling
-- [ ] Contract Declaration
+- [x] Versioning
+- [x] Compiling
+- [x] Contract Declaration
 - [ ] [Types & Declaring Variables](https://docs.soliditylang.org/en/v0.8.6/types.html)
   - [ ] `uint256`, `int256`, `bool`, `string`, `address`, `bytes32`
 - [ ] Default Initializations
