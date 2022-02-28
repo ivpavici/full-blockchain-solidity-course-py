@@ -59,10 +59,10 @@ Welcome to the repository for the Ultimate Solidity, Blockchain, and Smart Contr
   - [x] `uint256`, `int256`, `bool`, `string`, `address`, `bytes32`
 - [x] Default Initializations
 - [x] Comments
-- [ ] Functions
-- [ ] Deploying a Contract
-- [ ] Calling a public state-changing Function
-- [ ] [Visibility](https://docs.soliditylang.org/en/v0.7.3/contracts.html#visibility-and-getters)
+- [x] Functions
+- [x] Deploying a Contract
+- [x] Calling a public state-changing Function
+- [x] [Visibility](https://docs.soliditylang.org/en/v0.7.3/contracts.html#visibility-and-getters)
 - [ ] Scope
 - [ ] View & Pure Functions
 - [ ] Structs
