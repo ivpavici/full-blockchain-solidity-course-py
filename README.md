@@ -74,11 +74,11 @@ Welcome to the repository for the Ultimate Solidity, Blockchain, and Smart Contr
 - [x] SPDX License
 
 ### Deploying to a "Live" network
-- [ ] A testnet or mainnet
-- [ ] [Find a faucet here](https://docs.chain.link/docs/link-token-contracts/#rinkeby)
-- [ ] Connecting Metamask
-- [ ] Interacting with Deployed Contracts
-- [ ] The EVM
+- [x] A testnet or mainnet
+- [x] [Find a faucet here](https://docs.chain.link/docs/link-token-contracts/#rinkeby)
+- [x] Connecting Metamask
+- [x] Interacting with Deployed Contracts
+- [x] The EVM
 # Lesson 2: [Storage Factory](https://github.com/PatrickAlphaC/storage_factory)
 💻 Code: https://github.com/PatrickAlphaC/storage_factory
 ### Inheritance, Factory Pattern, and Interacting with External Contracts
