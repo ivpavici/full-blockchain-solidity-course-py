@@ -63,7 +63,7 @@ Welcome to the repository for the Ultimate Solidity, Blockchain, and Smart Contr
 - [x] Deploying a Contract
 - [x] Calling a public state-changing Function
 - [x] [Visibility](https://docs.soliditylang.org/en/v0.7.3/contracts.html#visibility-and-getters)
-- [ ] Scope
+- [x] Scope
 - [ ] View & Pure Functions
 - [ ] Structs
 - [ ] Intro to Storage
