@@ -56,9 +56,9 @@ Welcome to the repository for the Ultimate Solidity, Blockchain, and Smart Contr
 - [x] Compiling
 - [x] Contract Declaration
 - [ ] [Types & Declaring Variables](https://docs.soliditylang.org/en/v0.8.6/types.html)
-  - [ ] `uint256`, `int256`, `bool`, `string`, `address`, `bytes32`
-- [ ] Default Initializations
-- [ ] Comments
+  - [x] `uint256`, `int256`, `bool`, `string`, `address`, `bytes32`
+- [x] Default Initializations
+- [x] Comments
 - [ ] Functions
 - [ ] Deploying a Contract
 - [ ] Calling a public state-changing Function
