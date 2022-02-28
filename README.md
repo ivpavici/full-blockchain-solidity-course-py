@@ -64,15 +64,15 @@ Welcome to the repository for the Ultimate Solidity, Blockchain, and Smart Contr
 - [x] Calling a public state-changing Function
 - [x] [Visibility](https://docs.soliditylang.org/en/v0.7.3/contracts.html#visibility-and-getters)
 - [x] Scope
-- [ ] View & Pure Functions
-- [ ] Structs
-- [ ] Intro to Storage
-- [ ] Arrays - [ ] Dynamic & Fixed sized
-- [ ] Compiler Errors and Warnings
-- [ ] Memory
-- [ ] Mappings
-- [ ] SPDX License
-- [ ] Recap
+- [x] View & Pure Functions
+- [x] Structs
+- [x] Intro to Storage
+- [x] Arrays - Dynamic & Fixed sized
+- [x] Compiler Errors and Warnings
+- [x] Memory
+- [x] Mappings
+- [x] SPDX License
+
 ### Deploying to a "Live" network
 - [ ] A testnet or mainnet
 - [ ] [Find a faucet here](https://docs.chain.link/docs/link-token-contracts/#rinkeby)
@@ -86,7 +86,7 @@ Welcome to the repository for the Ultimate Solidity, Blockchain, and Smart Contr
 - [ ] Imports
 - [ ] Deploy a Contract From a Contract
 - [ ] Interact With a Deployed Contract
-- [ ] Recap
+
 # Lesson 3: [Fund Me](https://github.com/PatrickAlphaC/fund_me)
 💻 Code: https://github.com/PatrickAlphaC/fund_me
 ### Payable, msg.sender, msg.value, Units of Measure
@@ -135,7 +135,7 @@ Welcome to the repository for the Ultimate Solidity, Blockchain, and Smart Contr
 - [ ] for loop
 - [ ] Array Length
 - [ ] Forcing a Transaction
-- [ ] Recap
+
 # Lesson 4: [Web3.py Simple Storage](https://github.com/PatrickAlphaC/web3_py_simple_storage)
 💻 Code: https://github.com/PatrickAlphaC/web3_py_simple_storage
 ### Installing VSCode, Python, and Web3
@@ -682,9 +682,6 @@ Welcome to the repository for the Ultimate Solidity, Blockchain, and Smart Contr
   - [ ] Notifications
   - [ ] Make it pretty
   - [ ] Alerts
-
-
-Shoutout to [Matt](https://twitter.com/mdurkin92) for the help on the front end!
 
 # Closing and Summary
 ## Security
