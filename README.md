@@ -94,17 +94,17 @@ Welcome to the repository for the Ultimate Solidity, Blockchain, and Smart Contr
 - [x] [Wei/Gwei/Eth Converter](https://eth-converter.com/)
 - [x] msg.sender & msg.value
 ### Chainlink Oracles
-- [ ] Decentralized Oracle Network Chainlink
-  - [ ] Blockchains can't make API calls
-  - [ ] Centralized Nodes are Points of Failure
-- [ ] [data.chain.link](https://data.chain.link/)
-- [ ] Getting External Data with Chainlink Oracles
-  - [ ] [Chainlink](https://docs.chain.link/)
-  - [ ] [Faucets and Contract Addresses](https://docs.chain.link/docs/link-token-contracts/)
-    - [ ] [Kovan](https://docs.chain.link/docs/link-token-contracts/#kovan)
-  - [ ] [Getting Price Information](https://docs.chain.link/docs/get-the-latest-price/)
+- [x] Decentralized Oracle Network Chainlink
+  - [x] Blockchains can't make API calls
+  - [x] Centralized Nodes are Points of Failure
+- [x] [data.chain.link](https://data.chain.link/)
+- [x] Getting External Data with Chainlink Oracles
+  - [x] [Chainlink](https://docs.chain.link/)
+  - [x] [Faucets and Contract Addresses](https://docs.chain.link/docs/link-token-contracts/)
+    - [x] [Kovan](https://docs.chain.link/docs/link-token-contracts/#kovan)
+  - [x] [Getting Price Information](https://docs.chain.link/docs/get-the-latest-price/)
 ### Importing from NPM and Advanced Solidity
-- [ ] Decimals/Floating Point Numbers in Solidity
+- [x] Decimals/Floating Point Numbers in Solidity
 - [ ] latestRoundData
 - [ ] Importing from NPM  in Remix
 - [ ] Interfaces
