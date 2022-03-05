@@ -90,9 +90,9 @@ Welcome to the repository for the Ultimate Solidity, Blockchain, and Smart Contr
 # Lesson 3: [Fund Me](https://github.com/PatrickAlphaC/fund_me)
 💻 Code: https://github.com/PatrickAlphaC/fund_me
 ### Payable, msg.sender, msg.value, Units of Measure
-- [ ] Payable
-- [ ] [Wei/Gwei/Eth Converter](https://eth-converter.com/)
-- [ ] msg.sender & msg.value
+- [x] Payable
+- [x] [Wei/Gwei/Eth Converter](https://eth-converter.com/)
+- [x] msg.sender & msg.value
 ### Chainlink Oracles
 - [ ] Decentralized Oracle Network Chainlink
   - [ ] Blockchains can't make API calls
