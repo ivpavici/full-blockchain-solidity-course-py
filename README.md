@@ -120,16 +120,16 @@ Welcome to the repository for the Ultimate Solidity, Blockchain, and Smart Contr
   - [x] using keyword
   - [x] [Libraries](https://docs.soliditylang.org/en/v0.8.6/contracts.html#libraries)
   - [x] SafeMath PSA
-- [ ] Setting a Threshold
-- [ ] Require
-- [ ] Revert
-- [ ] Withdraw Function 
-- [ ] Transfer
-- [ ] Balance
-- [ ] this
-- [ ] Contract Owners
-- [ ] Constructor
-- [ ] ==
+- [x] Setting a Threshold
+- [x] Require
+- [x] Revert
+- [x] Withdraw Function 
+- [x] Transfer
+- [x] Balance
+- [x] this
+- [x] Contract Owners
+- [x] Constructor
+- [x] ==
 - [ ] Modifiers
 - [ ] Resetting
 - [ ] for loop
