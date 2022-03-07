@@ -116,10 +116,10 @@ Welcome to the repository for the Ultimate Solidity, Blockchain, and Smart Contr
 - [x] Matching Units (WEI/GWEI/ETH)
 - [x] getConversionRate
 - [x] Matching Units (Continued)
-- [ ] SafeMath & Integer Overflow
-  - [ ] using keyword
-  - [ ] [Libraries](https://docs.soliditylang.org/en/v0.8.6/contracts.html#libraries)
-  - [ ] SafeMath PSA
+- [x] SafeMath & Integer Overflow
+  - [x] using keyword
+  - [x] [Libraries](https://docs.soliditylang.org/en/v0.8.6/contracts.html#libraries)
+  - [x] SafeMath PSA
 - [ ] Setting a Threshold
 - [ ] Require
 - [ ] Revert
