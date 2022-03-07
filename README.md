@@ -105,17 +105,17 @@ Welcome to the repository for the Ultimate Solidity, Blockchain, and Smart Contr
   - [x] [Getting Price Information](https://docs.chain.link/docs/get-the-latest-price/)
 ### Importing from NPM and Advanced Solidity
 - [x] Decimals/Floating Point Numbers in Solidity
-- [ ] latestRoundData
-- [ ] Importing from NPM  in Remix
-- [ ] Interfaces
-  - [ ] Introduction to ABIs
-- [ ] [Getting Price Feed Addresses](https://docs.chain.link/docs/reference-contracts/)
-- [ ] getPrice
-- [ ] Tuples
-  - [ ] Unused Tuple Variables
-- [ ] Matching Units (WEI/GWEI/ETH)
-- [ ] getConversionRate
-- [ ] Matching Units (Continued)
+- [x] latestRoundData
+- [x] Importing from NPM  in Remix
+- [x] Interfaces
+  - [x] Introduction to ABIs
+- [x] [Getting Price Feed Addresses](https://docs.chain.link/docs/reference-contracts/)
+- [x] getPrice
+- [x] Tuples
+  - [x] Unused Tuple Variables
+- [x] Matching Units (WEI/GWEI/ETH)
+- [x] getConversionRate
+- [x] Matching Units (Continued)
 - [ ] SafeMath & Integer Overflow
   - [ ] using keyword
   - [ ] [Libraries](https://docs.soliditylang.org/en/v0.8.6/contracts.html#libraries)
