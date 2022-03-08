@@ -139,27 +139,27 @@ Welcome to the repository for the Ultimate Solidity, Blockchain, and Smart Contr
 # Lesson 4: [Web3.py Simple Storage](https://github.com/PatrickAlphaC/web3_py_simple_storage)
 💻 Code: https://github.com/PatrickAlphaC/web3_py_simple_storage
 ### Installing VSCode, Python, and Web3
-- [ ] [Developer Bootcamp Setup Instructions (metamask, vscode, python, nodejs..)](https://chain.link/bootcamp/brownie-setup-instructions)
-- [ ] [VSCode](https://code.visualstudio.com/download)
-- [ ] [VSCode Crash Course](https://www.youtube.com/watch?v=WPqXP_kLzpo)
-- [ ] Extensions
-- [ ] Short Cuts:
-  - [ ] [VSCode Shortcuts](https://code.visualstudio.com/docs/getstarted/keybindings)
-  - [ ] [VSCode MacOS Shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)
-- [ ] [Python](https://www.python.org/downloads/)
-  - [ ] Install Troubleshooting
-- [ ] Terminal
-- [ ] Making a directory/Folder
-- [ ] Opening the folder up with VSCode
-- [ ] Creating a new file
-- [ ] Syntax Highlights
-- [ ] Remember to save!
-- [ ] Setting linting compile version
-- [ ] VSCode Solidity Settings
-  - [ ] Formatting & Format on Save
-  - [ ] Solidity Prettier
-  - [ ] [Python Black](https://pypi.org/project/black/)
-  - [ ] [pip](https://pypi.org/project/pip/)
+- [x] [Developer Bootcamp Setup Instructions (metamask, vscode, python, nodejs..)](https://chain.link/bootcamp/brownie-setup-instructions)
+- [x] [VSCode](https://code.visualstudio.com/download)
+- [x] [VSCode Crash Course](https://www.youtube.com/watch?v=WPqXP_kLzpo)
+- [x] Extensions
+- [x] Short Cuts:
+  - [x] [VSCode Shortcuts](https://code.visualstudio.com/docs/getstarted/keybindings)
+  - [x] [VSCode MacOS Shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)
+- [x] [Python](https://www.python.org/downloads/)
+  - [x] Install Troubleshooting
+- [x] Terminal
+- [x] Making a directory/Folder
+- [x] Opening the folder up with VSCode
+- [x] Creating a new file
+- [x] Syntax Highlights
+- [x] Remember to save!
+- [x] Setting linting compile version
+- [x] VSCode Solidity Settings
+  - [x] Formatting & Format on Save
+  - [x] Solidity Prettier
+  - [x] [Python Black](https://pypi.org/project/black/)
+  - [x] [pip](https://pypi.org/project/pip/)
 ### Our First Python Script with Web3.py - [ ] Deploying a Contract
 - [ ] Reading our solidity file
 - [ ] Running a Python Script in the Terminal
