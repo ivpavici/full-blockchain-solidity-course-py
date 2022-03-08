@@ -160,7 +160,7 @@ Welcome to the repository for the Ultimate Solidity, Blockchain, and Smart Contr
   - [x] Solidity Prettier
   - [x] [Python Black](https://pypi.org/project/black/)
   - [x] [pip](https://pypi.org/project/pip/)
-### Our First Python Script with Web3.py - [ ] Deploying a Contract
+### Our First Python Script with Web3.py - Deploying a Contract
 - [ ] Reading our solidity file
 - [ ] Running a Python Script in the Terminal
 - [ ] [MaxOS Shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)
