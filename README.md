@@ -130,11 +130,11 @@ Welcome to the repository for the Ultimate Solidity, Blockchain, and Smart Contr
 - [x] Contract Owners
 - [x] Constructor
 - [x] ==
-- [ ] Modifiers
-- [ ] Resetting
-- [ ] for loop
-- [ ] Array Length
-- [ ] Forcing a Transaction
+- [x] Modifiers
+- [x] Resetting
+- [x] for loop
+- [x] Array Length
+- [x] Forcing a Transaction
 
 # Lesson 4: [Web3.py Simple Storage](https://github.com/PatrickAlphaC/web3_py_simple_storage)
 💻 Code: https://github.com/PatrickAlphaC/web3_py_simple_storage
