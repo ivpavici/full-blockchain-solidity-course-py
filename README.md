@@ -161,18 +161,18 @@ Welcome to the repository for the Ultimate Solidity, Blockchain, and Smart Contr
   - [x] [Python Black](https://pypi.org/project/black/)
   - [x] [pip](https://pypi.org/project/pip/)
 ### Our First Python Script with Web3.py - Deploying a Contract
-- [ ] Reading our solidity file
-- [ ] Running a Python Script in the Terminal
-- [ ] [MaxOS Shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)
-- [ ] [Windows Shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
-- [ ] [Linux Shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf)
-- [ ] Compiling in Python
-- [ ] [py-solc-x](https://pypi.org/project/py-solc-x/)
-  - [ ] compile_standard
-- [ ] Colorized Brackets
-- [ ] JSON ABI 
-- [ ] Saving Compiled Code
-- [ ] Formatting JSON
+- [x] Reading our solidity file
+- [x] Running a Python Script in the Terminal
+- [x] [MaxOS Shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)
+- [x] [Windows Shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
+- [x] [Linux Shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf)
+- [x] Compiling in Python
+- [x] [py-solc-x](https://pypi.org/project/py-solc-x/)
+  - [x] compile_standard
+- [x] Colorized Brackets
+- [x] JSON ABI 
+- [x] Saving Compiled Code
+- [x] Formatting JSON
 - [ ] Deploying in Python
   1. Get Bytecode
   2. Get ABI
