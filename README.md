@@ -201,25 +201,25 @@ Welcome to the repository for the Ultimate Solidity, Blockchain, and Smart Contr
 - [x] Viewing our Transaction / Deployment in Ganache
 - [x] Waiting for Block Confirmations
 ### Interacting with Our Contract in Python & Web3.py
-- [ ] 2 Things you always need
+- [x] 2 Things you always need
   1. Contract Address
   2. Contract ABI
-- [ ] Getting address from transaction receipt
-- [ ] Calling a view function with web3.py
-  - [ ] Call vs Transact
-- [ ] Updating State with Web3.py
-- [ ] [ganache-cli](https://github.com/trufflesuite/ganache-cli)
-  - [ ] Installing Ganache
-    - [ ] [Install Nodejs](https://nodejs.org/en/)
-    - [ ] [Install Yarn](https://classic.yarnpkg.com/en/docs/install)
-- [ ] Working with ganache-cli
-- [ ] Open a new terminal in the same window
-- [ ] Deploying to a testnet
-- [ ] [Infura](https://infura.io/)
-- [ ] [Alchemy](https://www.alchemy.com/)
-- [ ] Using Infura RPC URL / HTTP Provider
-- [ ] [Chain Ids](https://chainlist.org/)
-- [ ] Wow this seems like a lot of work... Is there a better way?
+- [x] Getting address from transaction receipt
+- [x] Calling a view function with web3.py
+  - [x] Call vs Transact
+- [x] Updating State with Web3.py
+- [x] [ganache-cli](https://github.com/trufflesuite/ganache-cli)
+  - [x] Installing Ganache
+    - [x] [Install Nodejs](https://nodejs.org/en/)
+    - [x] [Install Yarn](https://classic.yarnpkg.com/en/docs/install)
+- [x] Working with ganache-cli
+- [x] Open a new terminal in the same window
+- [x] Deploying to a testnet
+- [x] [Infura](https://infura.io/)
+- [x] [Alchemy](https://www.alchemy.com/)
+- [x] Using Infura RPC URL / HTTP Provider
+- [x] [Chain Ids](https://chainlist.org/)
+- [x] Wow this seems like a lot of work... Is there a better way?
 # Lesson 5: [Brownie Simple Storage](https://github.com/PatrickAlphaC/brownie_simple_storage)
 💻 Code: https://github.com/PatrickAlphaC/brownie_simple_storage
 ### Brownie Introduction
