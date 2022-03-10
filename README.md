@@ -177,29 +177,29 @@ Welcome to the repository for the Ultimate Solidity, Blockchain, and Smart Contr
   1. Get Bytecode
   2. Get ABI
   3. Choose Blockchain to Deploy To
-    - [ ] Local Ganache Chain
-      - [ ] [Ganache UI](https://www.trufflesuite.com/ganache)
-      - [ ] [Ganache Command Line](https://github.com/trufflesuite/ganache-cli)
-- [ ] [Web3.py](https://web3py.readthedocs.io/en/stable/)
-- [ ] HTTP / RPC Provider
-- [ ] Private Keys MUST start with "0x"
-- [ ] Contract Object
-- [ ] Building a Transaction
-- [ ] Account Nonce 
-- [ ] Calling "Constructor"
-- [ ] Transaction Parameters
-- [ ] Signing the Transaction
-- [ ] NEVER put your private key directly in your code
-- [ ] [Setting Environment Variables (Windows, Linux, MacOS)](https://www.twilio.com/blog/2017/01/how-to-set-environment-variables.html)
-  - [ ] [More on Windows Environment Variables](https://www.youtube.com/watch?v=tqWDiu8a4gc&t=40s)
-- [ ] Exported Environment Variables Only Last the Duration of the Shell/Terminal
-- [ ] Private Key PSA
-- [ ] .env file
-- [ ] .gitignore
-- [ ] Loading .env File in Python
-  - [ ] [python-dotenv](https://pypi.org/project/python-dotenv/)
-- [ ] Viewing our Transaction / Deployment in Ganache
-- [ ] Waiting for Block Confirmations
+    - [x] Local Ganache Chain
+      - [x] [Ganache UI](https://www.trufflesuite.com/ganache)
+      - [x] [Ganache Command Line](https://github.com/trufflesuite/ganache-cli)
+- [x] [Web3.py](https://web3py.readthedocs.io/en/stable/)
+- [x] HTTP / RPC Provider
+- [x] Private Keys MUST start with "0x"
+- [x] Contract Object
+- [x] Building a Transaction
+- [x] Account Nonce 
+- [x] Calling "Constructor"
+- [x] Transaction Parameters
+- [x] Signing the Transaction
+- [x] NEVER put your private key directly in your code
+- [x] [Setting Environment Variables (Windows, Linux, MacOS)](https://www.twilio.com/blog/2017/01/how-to-set-environment-variables.html)
+  - [x] [More on Windows Environment Variables](https://www.youtube.com/watch?v=tqWDiu8a4gc&t=40s)
+- [x] Exported Environment Variables Only Last the Duration of the Shell/Terminal
+- [x] Private Key PSA
+- [x] .env file
+- [x] .gitignore
+- [x] Loading .env File in Python
+  - [x] [python-dotenv](https://pypi.org/project/python-dotenv/)
+- [x] Viewing our Transaction / Deployment in Ganache
+- [x] Waiting for Block Confirmations
 ### Interacting with Our Contract in Python & Web3.py
 - [ ] 2 Things you always need
   1. Contract Address
