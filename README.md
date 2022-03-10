@@ -223,18 +223,18 @@ Welcome to the repository for the Ultimate Solidity, Blockchain, and Smart Contr
 # Lesson 5: [Brownie Simple Storage](https://github.com/PatrickAlphaC/brownie_simple_storage)
 💻 Code: https://github.com/PatrickAlphaC/brownie_simple_storage
 ### Brownie Introduction
-- [ ] Some Users:
-  - [ ] https://yearn.finance/
-  - [ ] https://curve.fi/
-  - [ ] https://badger.finance/
+- [x] Some Users:
+  - https://yearn.finance/
+  - https://curve.fi/
+  - https://badger.finance/
 ### Installing Brownie
-- [ ] [Installing Brownie](https://eth-brownie.readthedocs.io/en/stable/install.html)
-  - [ ] Install pipx
-  - [ ] pipx install eth-brownie
-  - [ ] Testing Successful Install
+- [x] [Installing Brownie](https://eth-brownie.readthedocs.io/en/stable/install.html)
+  - [x] Install pipx
+  - [x] pipx install eth-brownie
+  - [x] Testing Successful Install
 ### Brownie Simple Storage Project
-- [ ] A new Brownie project with `brownie init`
-  - [ ] Project Basic Explanation
+- [x] A new Brownie project with `brownie init`
+  - [x] Project Basic Explanation
 - [ ] Adding `SimpleStorage.sol` to the `contracts` folder
 - [ ] Compiling with `brownie compile`
 - [ ] Brownie deploy script
