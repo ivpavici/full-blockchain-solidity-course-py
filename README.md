@@ -173,7 +173,7 @@ Welcome to the repository for the Ultimate Solidity, Blockchain, and Smart Contr
 - [x] JSON ABI 
 - [x] Saving Compiled Code
 - [x] Formatting JSON
-- [ ] Deploying in Python
+- [x] Deploying in Python
   1. Get Bytecode
   2. Get ABI
   3. Choose Blockchain to Deploy To
