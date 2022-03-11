@@ -55,7 +55,7 @@ Welcome to the repository for the Ultimate Solidity, Blockchain, and Smart Contr
 - [x] Versioning
 - [x] Compiling
 - [x] Contract Declaration
-- [ ] [Types & Declaring Variables](https://docs.soliditylang.org/en/v0.8.6/types.html)
+- [x] [Types & Declaring Variables](https://docs.soliditylang.org/en/v0.8.6/types.html)
   - [x] `uint256`, `int256`, `bool`, `string`, `address`, `bytes32`
 - [x] Default Initializations
 - [x] Comments
@@ -255,27 +255,27 @@ Welcome to the repository for the Ultimate Solidity, Blockchain, and Smart Contr
 - [x] State-Changing Function Call in Brownie / Contract Interaction
 - [x] `transaction.wait(1)`
 ### Testing Basics
-- [ ] `test_simple_storage.py`
-- [ ] Arrange, Act, Assert
-- [ ] [`assert`](https://docs.pytest.org/en/6.2.x/assert.html)
-- [ ] `brownie test`
-- [ ] `test_updating_storage`
-- [ ] [Pytest / Brownie Test Tips](https://docs.pytest.org/en/6.2.x/)
-- [ ] Deploy to a Testnet
-- [ ] `brownie networks list`
-- [ ] Development vs Ethereum
-  - [ ] Development is temporary
-  - [ ] Ethereum networks persist
-- [ ] RPC URL / HTTP Provider in Brownie
-- [ ] The network flag
-  - [ ] `list index out of range`
-- [ ] `get_account()`
-- [ ] `networks.show_active()`
-- [ ] build/deployments
-- [ ] Accessing previous deployments
-- [ ] Interacting with contracts deployed in our brownie project
+- [x] `test_simple_storage.py`
+- [x] Arrange, Act, Assert
+- [x] [`assert`](https://docs.pytest.org/en/6.2.x/assert.html)
+- [x] `brownie test`
+- [x] `test_updating_storage`
+- [x] [Pytest / Brownie Test Tips](https://docs.pytest.org/en/6.2.x/)
+- [x] Deploy to a Testnet
+- [x] `brownie networks list`
+- [x] Development vs Ethereum
+  - Development is temporary
+  - Ethereum networks persist
+- [x] RPC URL / HTTP Provider in Brownie
+- [x] The network flag
+  - [x] `list index out of range`
+- [x] `get_account()`
+- [x] `networks.show_active()`
+- [x] build/deployments
+- [x] Accessing previous deployments
+- [x] Interacting with contracts deployed in our brownie project
 ### [Brownie console]
-- [ ] `brownie console`
+- [x] `brownie console`
 # Lesson 6: [Brownie Fund Me](https://github.com/PatrickAlphaC/brownie_fund_me)
 💻 Code: https://github.com/PatrickAlphaC/brownie_fund_me
 
