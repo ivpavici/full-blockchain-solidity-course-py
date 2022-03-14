@@ -312,24 +312,19 @@ Welcome to the repository for the Ultimate Solidity, Blockchain, and Smart Contr
 - [x] Fund Script
 - [x] Withdraw Script
 ### Testing across networks
-- [ ] `test_can_fund_and_withdraw`
-- [ ] default networks
-- [ ] pytest `pip install pytest`
-- [ ] pytest.skip
-- [ ] brownie exceptions
-- [ ] `mainnet-fork`
-- [ ] Custom mainnet fork
-- [ ] Adding a development brownie network
-  - [ ] `brownie networks add development mainnet-fork-dev cmd=ganache-cli host=http://127.0.0.1 fork='https://infura.io/v3/$WEB3_INFURA_PROJECT_ID' accounts=10 mnemonic=brownie port=8545`
-- [ ] [Alchemy](https://www.alchemy.com/)
-- [ ] `brownie test --network mainnet-fork`
-- [ ] brownie ganache vs local ganache vs mainnet-fork vs testnet...
-### Git
-- [ ] [Installing Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
-- [ ] Creating a repository 
-- [ ] [First time with git](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup)
-- [ ] [Adding our project to github](https://docs.github.com/en/github/importing-your-projects-to-github/importing-source-code-to-github/adding-an-existing-project-to-github-using-the-command-line)
-- [ ] Tweet it out!
+- [x] `test_can_fund_and_withdraw`
+- [x] default networks
+- [x] pytest `pip install pytest`
+- [x] pytest.skip
+- [x] brownie exceptions
+- [x] `mainnet-fork`
+- [x] Custom mainnet fork
+- [x] Adding a development brownie network
+  - `brownie networks add development mainnet-fork-dev cmd=ganache-cli host=http://127.0.0.1 fork='https://infura.io/v3/$WEB3_INFURA_PROJECT_ID' accounts=10 mnemonic=brownie port=8545`
+- [x] [Alchemy](https://www.alchemy.com/)
+- [x] `brownie test --network mainnet-fork`
+- [x] brownie ganache vs local ganache vs mainnet-fork vs testnet...
+
 # Lesson 7: [SmartContract Lottery](https://github.com/PatrickAlphaC/smartcontract-lottery)
 💻 Code: https://github.com/PatrickAlphaC/smartcontract-lottery
 
