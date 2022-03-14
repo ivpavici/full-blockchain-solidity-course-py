@@ -280,37 +280,37 @@ Welcome to the repository for the Ultimate Solidity, Blockchain, and Smart Contr
 💻 Code: https://github.com/PatrickAlphaC/brownie_fund_me
 
 ### Introduction
-- [ ] Setup
+- [x] Setup
 ### Dependencies, Deploying, and Networks
-- [ ] Dependencies
-- [ ] [chainlink-brownie-contracts](https://github.com/smartcontractkit/chainlink-brownie-contracts)
-- [ ] remappings
-- [ ] Deploy Script (V1)
-- [ ] `helpful_scripts.py`
-- [ ] `__init__.py`
-- [ ] Deploy to Rinkeby
-- [ ] Contract Verification (`publish_source`)
-  - [ ] The Manual Way
-    - [ ] "Flattening"
-  - [ ] The Programatic Way
-    - [ ] Getting an [Etherscan API Key](https://etherscan.io/apis)
-    - [ ] `ETHERSCAN_TOKEN`
-  - [ ] Interacting with Etherscan
-- [ ] Deploying to Local Chains
-- [ ] Introduction to Mocking 
-- [ ] Constructor Parameters
-- [ ] `networks` in our `brownie-config.yaml`
-- [ ] Copying [Mock Contracts from chainlink-mix](https://github.com/smartcontractkit/chainlink-mix)
-- [ ] Deploying and using our mock
-- [ ] Refactoring
-- [ ] Deploying to a persistent ganache
-- [ ] brownie attach
-- [ ] Adding a persistent brownie network
-- [ ] resetting a network build
+- [x] Dependencies
+- [x] [chainlink-brownie-contracts](https://github.com/smartcontractkit/chainlink-brownie-contracts)
+- [x] remappings
+- [x] Deploy Script (V1)
+- [x] `helpful_scripts.py`
+- [x] `__init__.py`
+- [x] Deploy to Rinkeby
+- [x] Contract Verification (`publish_source`)
+  - [x] The Manual Way
+    - [x] "Flattening"
+  - [x] The Programatic Way
+    - [x] Getting an [Etherscan API Key](https://etherscan.io/apis)
+    - [x] `ETHERSCAN_TOKEN`
+  - [x] Interacting with Etherscan
+- [x] Deploying to Local Chains
+- [x] Introduction to Mocking 
+- [x] Constructor Parameters
+- [x] `networks` in our `brownie-config.yaml`
+- [x] Copying [Mock Contracts from chainlink-mix](https://github.com/smartcontractkit/chainlink-mix)
+- [x] Deploying and using our mock
+- [x] Refactoring
+- [x] Deploying to a persistent ganache
+- [x] brownie attach
+- [x] Adding a persistent brownie network
+- [x] resetting a network build
 ### Funding and Withdrawing Python Scripts
-- [ ] Whoops! Let's fix an issue...
-- [ ] Fund Script
-- [ ] Withdraw Script
+- [x] Whoops! Let's fix an issue...
+- [x] Fund Script
+- [x] Withdraw Script
 ### Testing across networks
 - [ ] `test_can_fund_and_withdraw`
 - [ ] default networks
