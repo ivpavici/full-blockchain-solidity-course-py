@@ -329,9 +329,9 @@ Welcome to the repository for the Ultimate Solidity, Blockchain, and Smart Contr
 💻 Code: https://github.com/PatrickAlphaC/smartcontract-lottery
 
 ### Introduction
-- [ ] Add a `README.md`
-- [ ] Defining the project
-- [ ] Is it decentralized?
+- [x] Add a `README.md`
+- [x] Defining the project
+- [x] Is it decentralized?
 ### `Lottery.sol`
 - [ ] basic setup
 - [ ] Main Functions
