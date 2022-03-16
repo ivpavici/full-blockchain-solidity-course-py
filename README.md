@@ -333,30 +333,30 @@ Welcome to the repository for the Ultimate Solidity, Blockchain, and Smart Contr
 - [x] Defining the project
 - [x] Is it decentralized?
 ### `Lottery.sol`
-- [ ] basic setup
-- [ ] Main Functions
-- [ ] address payable[]
-- [ ] getEntranceFee & Setup
-  - [ ] [Chainlink Price Feed](https://docs.chain.link/docs/get-the-latest-price/)
-  - [ ] brownie-config
-  - [ ] SPDX
-- [ ] Matching Units of Measure
-  - [ ] Can't just divide
-- [ ] Test early and often
-- [ ] Quick Math Sanity Check
-- [ ] deleting networks
-- [ ] [Alchemy](https://www.alchemy.com/) again
-- [ ] Enum
-- [ ] `startLottery`
-- [ ] [Openzeppelin](https://openzeppelin.com/contracts/)... Is this the first openzeppelin reference? 
-- [ ] [Openzeppelin Contracts Github](https://github.com/OpenZeppelin/openzeppelin-contracts)
-- [ ] Randomness
-- [ ] Pseudorandomness
-- [ ] `block` keyword
-  - [ ] `block.difficulty`
-  - [ ] `block.timestamp`
-- [ ] `keccack256`
-- [ ] [True Randomness with Chainlink VRF](https://docs.chain.link/docs/get-a-random-number/)
+- [x] basic setup
+- [x] Main Functions
+- [x] address payable[]
+- [x] getEntranceFee & Setup
+  - [Chainlink Price Feed](https://docs.chain.link/docs/get-the-latest-price/)
+  - brownie-config
+  - SPDX
+- [x] Matching Units of Measure
+  - Can't just divide
+- [x] Test early and often
+- [x] Quick Math Sanity Check
+- [x] deleting networks
+- [x] [Alchemy](https://www.alchemy.com/) again
+- [x] Enum
+- [x] `startLottery`
+- [x] [Openzeppelin](https://openzeppelin.com/contracts/)... Is this the first openzeppelin reference? 
+- [x] [Openzeppelin Contracts Github](https://github.com/OpenZeppelin/openzeppelin-contracts)
+- [x] Randomness
+- [x] Pseudorandomness
+- [x] `block` keyword
+  - [x] `block.difficulty`
+  - [x] `block.timestamp`
+- [x] `keccack256`
+- [x] [True Randomness with Chainlink VRF](https://docs.chain.link/docs/get-a-random-number/)
 - [ ] Chainlink VRF Remix Version
 - [ ] Inheriting Constructors
 - [ ] Oracle Gas & Transaction Gas
