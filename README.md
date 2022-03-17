@@ -357,23 +357,23 @@ Welcome to the repository for the Ultimate Solidity, Blockchain, and Smart Contr
   - [x] `block.timestamp`
 - [x] `keccack256`
 - [x] [True Randomness with Chainlink VRF](https://docs.chain.link/docs/get-a-random-number/)
-- [ ] Chainlink VRF Remix Version
-- [ ] Inheriting Constructors
-- [ ] Oracle Gas & Transaction Gas
-- [ ] [Why didn't we pay gas on the price feeds?](https://ethereum.stackexchange.com/questions/87473/is-chainlinks-price-reference-data-free-to-consume)
-- [ ] Chainlink Node Fees
-- [ ] [Request And Receive Introduction](https://docs.chain.link/docs/architecture-request-model/)
-- [ ] [Kovan Faucets](https://docs.chain.link/docs/link-token-contracts/#kovan)
-- [ ] Funding Chainlink Contracts
-- [ ] [Request And Receive Explanation](https://docs.chain.link/docs/architecture-request-model/)
-- [ ] A Clarification
-- [ ] `endLottery`
-- [ ] `returns (type variableName)`
-- [ ] `fulfillRandomness`
-- [ ] `override`
-- [ ] Modulo Operation (Mod Operation %)
-- [ ] Paying the lottery winner
-- [ ] Resetting the lottery
+- [x] Chainlink VRF Remix Version
+- [x] Inheriting Constructors
+- [x] Oracle Gas & Transaction Gas
+- [x] [Why didn't we pay gas on the price feeds?](https://ethereum.stackexchange.com/questions/87473/is-chainlinks-price-reference-data-free-to-consume)
+- [x] Chainlink Node Fees
+- [x] [Request And Receive Introduction](https://docs.chain.link/docs/architecture-request-model/)
+- [x] [Kovan Faucets](https://docs.chain.link/docs/link-token-contracts/#kovan)
+- [x] Funding Chainlink Contracts
+- [x] [Request And Receive Explanation](https://docs.chain.link/docs/architecture-request-model/)
+- [x] A Clarification
+- [x] `endLottery`
+- [x] `returns (type variableName)`
+- [x] `fulfillRandomness`
+- [x] `override`
+- [x] Modulo Operation (Mod Operation %)
+- [x] Paying the lottery winner
+- [x] Resetting the lottery
 ### Testing Lottery.sol
 - [ ] `deploy_lottery.py`
 - [ ] `get_account()` refactored
