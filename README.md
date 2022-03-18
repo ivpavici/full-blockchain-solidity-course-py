@@ -375,35 +375,35 @@ Welcome to the repository for the Ultimate Solidity, Blockchain, and Smart Contr
 - [x] Paying the lottery winner
 - [x] Resetting the lottery
 ### Testing Lottery.sol
-- [ ] `deploy_lottery.py`
-- [ ] `get_account()` refactored
-- [ ] `get_contract`
-  - [ ] `contract_to_mock`
-  - [ ] `Contract.from_abi`
-- [ ] Adding the parameters to deploying to lottery
-- [ ] `vrfCoordinatorMock` and adding mocks
-- [ ] `LinkToken` and Mocks
-- [ ] Successful Ganache Deployment!
-- [ ] Python Lottery Scripts/Functions
-  - [ ] `start_lottery`
-  - [ ] Brownie tip: Remember to `tx.wait(1)` your last transaction
-  - [ ] `enter_lottery`
-  - [ ] `end_lottery`
-- [ ] Funding with LINK
-- [ ] brownie interfaces
-- [ ] Waiting for callback
-- [ ] Integration Tests & Unit Tests
-- [ ] Test all lines of code
-- [ ] `test_get_entrance_fee`
-- [ ] `pytest.skip` (again)
-- [ ] `test_cant_enter_unless_started`
-- [ ] `test_can_start_and_enter_lottery`
-- [ ] `test_can_pick_winner_correctly`
-- [ ] Events and Logs
-- [ ] `callBackWithRandomness`
+- [x] `deploy_lottery.py`
+- [x] `get_account()` refactored
+- [x] `get_contract`
+  - [x] `contract_to_mock`
+  - [x] `Contract.from_abi`
+- [x] Adding the parameters to deploying to lottery
+- [x] `vrfCoordinatorMock` and adding mocks
+- [x] `LinkToken` and Mocks
+- [x] Successful Ganache Deployment!
+- [x] Python Lottery Scripts/Functions
+  - [x] `start_lottery`
+  - [x] Brownie tip: Remember to `tx.wait(1)` your last transaction
+  - [x] `enter_lottery`
+  - [x] `end_lottery`
+- [x] Funding with LINK
+- [x] brownie interfaces
+- [x] Waiting for callback
+- [x] Integration Tests & Unit Tests
+- [x] Test all lines of code
+- [x] `test_get_entrance_fee`
+- [x] `pytest.skip` (again)
+- [x] `test_cant_enter_unless_started`
+- [x] `test_can_start_and_enter_lottery`
+- [x] `test_can_pick_winner_correctly`
+- [x] Events and Logs
+- [x] `callBackWithRandomness`
 ### Lottery.sol Testnet Deployment
-- [ ] `topics`
-- [ ] [conftest.py](https://stackoverflow.com/questions/34466027/in-pytest-what-is-the-use-of-conftest-py-files)
+- [x] `topics`
+- [x] [conftest.py](https://stackoverflow.com/questions/34466027/in-pytest-what-is-the-use-of-conftest-py-files)
 # Lesson 8: [Chainlink Mix](https://github.com/smartcontractkit/chainlink-mix) 
 💻 Code: https://github.com/smartcontractkit/chainlink-mix
 
