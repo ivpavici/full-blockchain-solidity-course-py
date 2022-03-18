@@ -410,16 +410,16 @@ Welcome to the repository for the Ultimate Solidity, Blockchain, and Smart Contr
 ## [Brownie Mixes](https://github.com/brownie-mix)
 # Lesson 9: [ERC20s, EIPs, and Token Standards](https://github.com/PatrickAlphaC/erc20-brownie-py)
 💻 Code: https://github.com/PatrickAlphaC/erc20-brownie-py
-- [ ] [ERC20/EIP20 Standard](https://eips.ethereum.org/EIPS/eip-20)
-- [ ] What is an ERC20?
-- [ ] Creating an ERC20
-- [ ] [OpenZeppelin ERC20](https://docs.openzeppelin.com/contracts/2.x/api/token/erc20)
-- [ ] [Solidity 0.8](https://docs.soliditylang.org/en/breaking/080-breaking-changes.html)
-- [ ] I Challenge you to code this yourself!
-- [ ] `deploy_token.py`
-- [ ] Copy paste `helpful_scripts.py`
-- [ ] Viewing our token in metamask
-- [ ] Adding to an exchange
+- [x] [ERC20/EIP20 Standard](https://eips.ethereum.org/EIPS/eip-20)
+- [x] What is an ERC20?
+- [x] Creating an ERC20
+- [x] [OpenZeppelin ERC20](https://docs.openzeppelin.com/contracts/2.x/api/token/erc20)
+- [x] [Solidity 0.8](https://docs.soliditylang.org/en/breaking/080-breaking-changes.html)
+- [x] I Challenge you to code this yourself!
+- [x] `deploy_token.py`
+- [x] Copy paste `helpful_scripts.py`
+- [x] Viewing our token in metamask
+- [x] Adding to an exchange
 # Lesson 10: [Defi & Aave](https://github.com/PatrickAlphaC/aave_brownie_py_freecode)
 💻 Code: https://github.com/PatrickAlphaC/aave_brownie_py_freecode
 
