@@ -499,28 +499,28 @@ Welcome to the repository for the Ultimate Solidity, Blockchain, and Smart Contr
 ### Simple NFT 
 - [x] [brownie mix](https://github.com/PatrickAlphaC/nft-mix)
 - [x] Initial Setup
-- [ ] `SimpleCollectible.sol`
-- [ ] [OpenZeppelin ERC721](https://docs.openzeppelin.com/contracts/3.x/)
-- [ ] [Pug Image](https://github.com/PatrickAlphaC/nft-mix/blob/main/img/pug.png)
-- [ ] NFT Constructor
-- [ ] NFT is a type of factory pattern
-- [ ] `createCollectible`
-  - [ ] `_safeMint`
-- [ ] TokenURI & Metadata
-- [ ] Opensea listing example
-- [ ] Is this decentralized?
-- [ ] Ethereum Size and dStorage
-  - [ ] [Ethereum Size](https://ycharts.com/indicators/ethereum_chain_full_sync_data_size)
-  - [ ] [dStorage Solutions](https://ethereum.org/en/developers/docs/storage/)
-  - [ ] [IPFS](https://www.ipfs.com/)
-- [ ] You need to have your NFT attributes both on-chain and inside your tokenURI metadata
-- [ ] `deploy_and_create.py`
-- [ ] [TokenURI used for the demo: https://ipfs.io/ipfs/Qmd9MCGtdVz2miNumBHDbvj8bigSgTwnr4SbyH6DNnpWdt?filename=0-PUG.json](https://ipfs.io/ipfs/Qmd9MCGtdVz2miNumBHDbvj8bigSgTwnr4SbyH6DNnpWdt?filename=0-PUG.json)
-- [ ] [IPFS Companion](https://chrome.google.com/webstore/detail/ipfs-companion/nibjojkomfdiaoajekhjakgkdhaomnch?hl=en)
-- [ ] Rinkeby Deployment
-- [ ] [Opensea Example](https://testnets.opensea.io/assets/0x8acb7ca932892eb83e4411b59309d44dddbc4cdf/0)
+- [x] `SimpleCollectible.sol`
+- [x] [OpenZeppelin ERC721](https://docs.openzeppelin.com/contracts/3.x/)
+- [x] [Pug Image](https://github.com/PatrickAlphaC/nft-mix/blob/main/img/pug.png)
+- [x] NFT Constructor
+- [x] NFT is a type of factory pattern
+- [x] `createCollectible`
+  - [x] `_safeMint`
+- [x] TokenURI & Metadata
+- [x] Opensea listing example
+- [x] Is this decentralized?
+- [x] Ethereum Size and dStorage
+  - [x] [Ethereum Size](https://ycharts.com/indicators/ethereum_chain_full_sync_data_size)
+  - [x] [dStorage Solutions](https://ethereum.org/en/developers/docs/storage/)
+  - [x] [IPFS](https://www.ipfs.com/)
+- [x] You need to have your NFT attributes both on-chain and inside your tokenURI metadata
+- [x] `deploy_and_create.py`
+- [x] [TokenURI used for the demo: https://ipfs.io/ipfs/Qmd9MCGtdVz2miNumBHDbvj8bigSgTwnr4SbyH6DNnpWdt?filename=0-PUG.json](https://ipfs.io/ipfs/Qmd9MCGtdVz2miNumBHDbvj8bigSgTwnr4SbyH6DNnpWdt?filename=0-PUG.json)
+- [x] [IPFS Companion](https://chrome.google.com/webstore/detail/ipfs-companion/nibjojkomfdiaoajekhjakgkdhaomnch?hl=en)
+- [x] Rinkeby Deployment
+- [x] [Opensea Example](https://testnets.opensea.io/assets/0x8acb7ca932892eb83e4411b59309d44dddbc4cdf/0)
 ### SimpleCollectible Testing
-- [ ] What else with NFTs?
+- [x] What else with NFTs?
 ### Advanced NFT
 - [ ] `AdvancedCollectible.sol`
 - [ ] [Dungeons and Dragons Example](https://github.com/PatrickAlphaC/dungeons-and-dragons-nft)
