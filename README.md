@@ -424,67 +424,67 @@ Welcome to the repository for the Ultimate Solidity, Blockchain, and Smart Contr
 💻 Code: https://github.com/PatrickAlphaC/aave_brownie_py_freecode
 
 ### Defi Intro
-- [ ] [Defipulse](https://defipulse.com/)
-- [ ] [Defillama](https://defillama.com/)
-- [ ] [Aave Testnet Site](https://staging.aave.com/)
-- [ ] [Paraswap](https://paraswap.io/)
-- [ ] Decentralized Exchange
+- [x] [Defipulse](https://defipulse.com/)
+- [x] [Defillama](https://defillama.com/)
+- [x] [Aave Testnet Site](https://staging.aave.com/)
+- [x] [Paraswap](https://paraswap.io/)
+- [x] Decentralized Exchange
 ### Aave UI
-- [ ] [Kovan ETH](https://docs.chain.link/docs/link-token-contracts/#kovan)
-- [ ] What is Aave?
-- [ ] Borrowing and Lending
-- [ ] Connecting to Aave
-- [ ] Depositing Tokens / Lending
-- [ ] Checking your transaction is correct
-- [ ] WETH Gateway
-- [ ] Interest Bearing Token (aToken)
-- [ ] Collateral
-- [ ] [DAI](https://makerdao.com/en/)
-- [ ] [Stablecoin](https://www.investopedia.com/terms/s/stablecoin.asp)
-- [ ] [Wrapped Bitcoin (wBTC)](https://www.gemini.com/cryptopedia/wrapped-bitcoin-what-can-you-do)
-- [ ] [Why borrow tokens?](https://docs.aave.com/faq/borrowing)
-- [ ] [Blockchain Fintech Tutorial](https://blog.chain.link/blockchain-fintech-defi-tutorial-lending-borrowing-python/)
-- [ ] DISCLAIMER ABOUT BORROWING
-- [ ] Borrowing Tokens
-- [ ] [Liquidations](https://docs.aave.com/faq/liquidations)
-- [ ] Your health factor must be above 1
-- [ ] [Solvent](https://www.investopedia.com/terms/s/solvency.asp)
-- [ ] [Stable vs Variable Interest Rate](https://docs.aave.com/faq/borrowing#what-is-the-difference-between-stable-and-variable-rate)
-- [ ] Repaying our borrows/loans
-- [ ] Reward token / governance token
-- [ ] Governance
+- [x] [Kovan ETH](https://docs.chain.link/docs/link-token-contracts/#kovan)
+- [x] What is Aave?
+- [x] Borrowing and Lending
+- [x] Connecting to Aave
+- [x] Depositing Tokens / Lending
+- [x] Checking your transaction is correct
+- [x] WETH Gateway
+- [x] Interest Bearing Token (aToken)
+- [x] Collateral
+- [x] [DAI](https://makerdao.com/en/)
+- [x] [Stablecoin](https://www.investopedia.com/terms/s/stablecoin.asp)
+- [x] [Wrapped Bitcoin (wBTC)](https://www.gemini.com/cryptopedia/wrapped-bitcoin-what-can-you-do)
+- [x] [Why borrow tokens?](https://docs.aave.com/faq/borrowing)
+- [x] [Blockchain Fintech Tutorial](https://blog.chain.link/blockchain-fintech-defi-tutorial-lending-borrowing-python/)
+- [x] DISCLAIMER ABOUT BORROWING
+- [x] Borrowing Tokens
+- [x] [Liquidations](https://docs.aave.com/faq/liquidations)
+- [x] Your health factor must be above 1
+- [x] [Solvent](https://www.investopedia.com/terms/s/solvency.asp)
+- [x] [Stable vs Variable Interest Rate](https://docs.aave.com/faq/borrowing#what-is-the-difference-between-stable-and-variable-rate)
+- [x] Repaying our borrows/loans
+- [x] Reward token / governance token
+- [x] Governance
 ### [Programmatic Interactions with Aave](https://github.com/PatrickAlphaC/aave_brownie_py_freecode)
-- [ ] Quant Defi Engineer
-- [ ] [Aave Documentation](https://docs.aave.com/developers/)
-- [ ] Setup
-- [ ] Converting ETH -> WETH
-- [ ] `get_weth.py`
-- [ ] [IWETH](https://github.com/PatrickAlphaC/aave_brownie_py/blob/main/interfaces/WethInterface.sol)
-- [ ] [Kovan WETH Token Address: 0xd0a1e359811322d97991e03f863a0c30c2cf029c](https://kovan.etherscan.io/token/0xd0a1e359811322d97991e03f863a0c30c2cf029c)
-- [ ] [Mainnet WETH Token Address: 0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2](https://etherscan.io/token/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2)
-- [ ] Converting WETH -> ETH with `withdraw`
-- [ ] `aave_borrow.py`
-- [ ] [LendingPool](https://docs.aave.com/developers/the-core-protocol/lendingpool)
-- [ ] [LendingPoolAddressProvider](https://docs.aave.com/developers/the-core-protocol/addresses-provider)
-- [ ] [LendingPool and LendingPoolAddressProvider Addresses](https://docs.aave.com/developers/deployed-contracts/deployed-contracts)
-- [ ] Fixing import dependencies
-- [ ] [Aave Github](https://github.com/aave/protocol-v2)
-- [ ] [ERC20 Approve Function](https://medium.com/ethex-market/erc20-approve-allow-explained-88d6de921ce9)
-- [ ] [IERC20 from Patrick's repo](https://github.com/PatrickAlphaC/aave_brownie_py/blob/main/interfaces/IERC20.sol)
-- [ ] `deposit`
-- [ ] [getUserAccountData](https://docs.aave.com/developers/the-core-protocol/lendingpool#getuseraccountdata)
-- [ ] Liquidation Threshold
-- [ ] [Risk Parameters](https://docs.aave.com/risk/asset-risk/risk-parameters)
-- [ ] Borrowing DAI 
-- [ ] Getting DAI Conversion Rate
-  - [ ] [Chainlink Price Feeds](https://docs.chain.link/docs/reference-contracts/)
-  - [ ] [AggregatorV3Interface](https://github.com/PatrickAlphaC/aave_brownie_py/blob/main/interfaces/AggregatorV3Interface.sol)
-- [ ] [borrow](https://docs.aave.com/developers/the-core-protocol/lendingpool#borrow)
-- [ ] [Mainnet DAI Address: 0x6b175474e89094c44da98b954eedeac495271d0f](https://etherscan.io/token/0x6b175474e89094c44da98b954eedeac495271d0f)
-- [ ] [Aave Testnet Token Addresses](https://aave.github.io/aave-addresses/kovan.json)
-- [ ] Repaying
-- [ ] Kovan Run
-- [ ] Viewing the transactions
+- [x] Quant Defi Engineer
+- [x] [Aave Documentation](https://docs.aave.com/developers/)
+- [x] Setup
+- [x] Converting ETH -> WETH
+- [x] `get_weth.py`
+- [x] [IWETH](https://github.com/PatrickAlphaC/aave_brownie_py/blob/main/interfaces/WethInterface.sol)
+- [x] [Kovan WETH Token Address: 0xd0a1e359811322d97991e03f863a0c30c2cf029c](https://kovan.etherscan.io/token/0xd0a1e359811322d97991e03f863a0c30c2cf029c)
+- [x] [Mainnet WETH Token Address: 0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2](https://etherscan.io/token/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2)
+- [x] Converting WETH -> ETH with `withdraw`
+- [x] `aave_borrow.py`
+- [x] [LendingPool](https://docs.aave.com/developers/the-core-protocol/lendingpool)
+- [x] [LendingPoolAddressProvider](https://docs.aave.com/developers/the-core-protocol/addresses-provider)
+- [x] [LendingPool and LendingPoolAddressProvider Addresses](https://docs.aave.com/developers/deployed-contracts/deployed-contracts)
+- [x] Fixing import dependencies
+- [x] [Aave Github](https://github.com/aave/protocol-v2)
+- [x] [ERC20 Approve Function](https://medium.com/ethex-market/erc20-approve-allow-explained-88d6de921ce9)
+- [x] [IERC20 from Patrick's repo](https://github.com/PatrickAlphaC/aave_brownie_py/blob/main/interfaces/IERC20.sol)
+- [x] `deposit`
+- [x] [getUserAccountData](https://docs.aave.com/developers/the-core-protocol/lendingpool#getuseraccountdata)
+- [x] Liquidation Threshold
+- [x] [Risk Parameters](https://docs.aave.com/risk/asset-risk/risk-parameters)
+- [x] Borrowing DAI 
+- [x] Getting DAI Conversion Rate
+  - [Chainlink Price Feeds](https://docs.chain.link/docs/reference-contracts/)
+  - [AggregatorV3Interface](https://github.com/PatrickAlphaC/aave_brownie_py/blob/main/interfaces/AggregatorV3Interface.sol)
+- [x] [borrow](https://docs.aave.com/developers/the-core-protocol/lendingpool#borrow)
+- [x] [Mainnet DAI Address: 0x6b175474e89094c44da98b954eedeac495271d0f](https://etherscan.io/token/0x6b175474e89094c44da98b954eedeac495271d0f)
+- [x] [Aave Testnet Token Addresses](https://aave.github.io/aave-addresses/kovan.json)
+- [x] Repaying
+- [x] Kovan Run
+- [x] Viewing the transactions
 ### Testing
 # Lesson 11: [NFTs](https://github.com/PatrickAlphaC/nft-demo)
 💻 Code: https://github.com/PatrickAlphaC/nft-demo
