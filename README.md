@@ -490,15 +490,15 @@ Welcome to the repository for the Ultimate Solidity, Blockchain, and Smart Contr
 💻 Code: https://github.com/PatrickAlphaC/nft-demo
 
 ### Non-Technical Explainer
-- [ ] [End-to-end article](https://www.freecodecamp.org/news/how-to-make-an-nft-and-render-on-opensea-marketplace/)
-- [ ] What is an NFT?
-- [ ] [ERC721](https://eips.ethereum.org/EIPS/eip-721)
-- [ ] Token URI
-- [ ] [Token Metadata Example](https://docs.opensea.io/docs/2-adding-metadata)
-- [ ] [IPFS](https://ipfs.io/)
+- [x] [End-to-end article](https://www.freecodecamp.org/news/how-to-make-an-nft-and-render-on-opensea-marketplace/)
+- [x] What is an NFT?
+- [x] [ERC721](https://eips.ethereum.org/EIPS/eip-721)
+- [x] Token URI
+- [x] [Token Metadata Example](https://docs.opensea.io/docs/2-adding-metadata)
+- [x] [IPFS](https://ipfs.io/)
 ### Simple NFT 
-- [ ] [brownie mix](https://github.com/PatrickAlphaC/nft-mix)
-- [ ] Initial Setup
+- [x] [brownie mix](https://github.com/PatrickAlphaC/nft-mix)
+- [x] Initial Setup
 - [ ] `SimpleCollectible.sol`
 - [ ] [OpenZeppelin ERC721](https://docs.openzeppelin.com/contracts/3.x/)
 - [ ] [Pug Image](https://github.com/PatrickAlphaC/nft-mix/blob/main/img/pug.png)
