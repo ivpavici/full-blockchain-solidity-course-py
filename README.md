@@ -522,17 +522,17 @@ Welcome to the repository for the Ultimate Solidity, Blockchain, and Smart Contr
 ### SimpleCollectible Testing
 - [x] What else with NFTs?
 ### Advanced NFT
-- [ ] `AdvancedCollectible.sol`
-- [ ] [Dungeons and Dragons Example](https://github.com/PatrickAlphaC/dungeons-and-dragons-nft)
-- [ ] Double Inherited Constructors
-- [ ] `createCollectible` (Advanced)
-  - [ ] `tokenIdToBreed`
-- [ ] Working with in-flight Chainlink VRF requests
-- [ ] Download the NFT images from the [nft-mix](https://github.com/PatrickAlphaC/nft-mix)
-- [ ] `setTokenURI`
-  - [ ] `_isApprovedOrOwner`
-- [ ] Emit events when you update mappings
-- [ ] [`indexed` event keyword](https://ethereum.stackexchange.com/questions/8658/what-does-the-indexed-keyword-do/8659)
+- [x] `AdvancedCollectible.sol`
+- [x] [Dungeons and Dragons Example](https://github.com/PatrickAlphaC/dungeons-and-dragons-nft)
+- [x] Double Inherited Constructors
+- [x] `createCollectible` (Advanced)
+  - [x] `tokenIdToBreed`
+- [x] Working with in-flight Chainlink VRF requests
+- [x] Download the NFT images from the [nft-mix](https://github.com/PatrickAlphaC/nft-mix)
+- [x] `setTokenURI`
+  - [x] `_isApprovedOrOwner`
+- [x] Emit events when you update mappings
+- [x] [`indexed` event keyword](https://ethereum.stackexchange.com/questions/8658/what-does-the-indexed-keyword-do/8659)
 ### Advanced deploy_and_create
 - [ ] Move `OPENSEA_URL` to `helpful_scripts`
 - [ ] Deploying AdvancedCollectible
