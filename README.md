@@ -534,15 +534,15 @@ Welcome to the repository for the Ultimate Solidity, Blockchain, and Smart Contr
 - [x] Emit events when you update mappings
 - [x] [`indexed` event keyword](https://ethereum.stackexchange.com/questions/8658/what-does-the-indexed-keyword-do/8659)
 ### Advanced deploy_and_create
-- [ ] Move `OPENSEA_URL` to `helpful_scripts`
-- [ ] Deploying AdvancedCollectible
-  - [ ] Opensea testnet is only compatible with Rinkeby
-- [ ] [Rinkeby Chainlink VRF Contract Addresses](https://docs.chain.link/docs/vrf-contracts/#rinkeby)
-- [ ] Speeding through adding functions from previous projects
-- [ ] Deploy to Rinkeby
-- [ ] `create_collectible.py`
-- [ ] A quick unit test
-- [ ] A quick integration test
+- [x] Move `OPENSEA_URL` to `helpful_scripts`
+- [x] Deploying AdvancedCollectible
+  - [x] Opensea testnet is only compatible with Rinkeby
+- [x] [Rinkeby Chainlink VRF Contract Addresses](https://docs.chain.link/docs/vrf-contracts/#rinkeby)
+- [x] Speeding through adding functions from previous projects
+- [x] Deploy to Rinkeby
+- [x] `create_collectible.py`
+- [x] A quick unit test
+- [x] A quick integration test
 ### Creating Metadata & IPFS
 - [ ] `create_metadata.py`
 - [ ] `get_breed`
