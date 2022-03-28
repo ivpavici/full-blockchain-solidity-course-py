@@ -544,24 +544,24 @@ Welcome to the repository for the Ultimate Solidity, Blockchain, and Smart Contr
 - [x] A quick unit test
 - [x] A quick integration test
 ### Creating Metadata & IPFS
-- [ ] `create_metadata.py`
-- [ ] `get_breed`
-- [ ] Metadata Folder
-- [ ] `metadata_template`
-- [ ] NFT Metadata Attributes
-- [ ] Checking if Metadata file already exists
-- [ ] Uploading to IPFS
-  - [ ] `upload_to_ipfs`
-  - [ ] [Download IPFS Command Line](https://docs.ipfs.io/install/command-line/)
-  - [ ] [Download IPFS Desktop](https://docs.ipfs.io/install/ipfs-desktop/)
-  - [ ] [HTTP IPFS Docs](https://docs.ipfs.io/reference/http/api/)
-  - [ ] `ipfs daemon`
-  - [ ] [Pinata](https://app.pinata.cloud/)
-  - [ ] [Pinata Docs](https://docs.pinata.cloud/)
-  - [ ] Refactoring to not re-upload to IPFS
-- [ ] Setting the TokenURI
-- [ ] End-To-End Manual Testnet Test
-- [ ] Viewing on Opensea
+- [x] `create_metadata.py`
+- [x] `get_breed`
+- [x] Metadata Folder
+- [x] `metadata_template`
+- [x] NFT Metadata Attributes
+- [x] Checking if Metadata file already exists
+- [x] Uploading to IPFS
+  - [x] `upload_to_ipfs`
+  - [x] [Download IPFS Command Line](https://docs.ipfs.io/install/command-line/)
+  - [x] [Download IPFS Desktop](https://docs.ipfs.io/install/ipfs-desktop/)
+  - [x] [HTTP IPFS Docs](https://docs.ipfs.io/reference/http/api/)
+  - [x] `ipfs daemon`
+  - [x] [Pinata](https://app.pinata.cloud/)
+  - [x] [Pinata Docs](https://docs.pinata.cloud/)
+  - [x] Refactoring to not re-upload to IPFS
+- [x] Setting the TokenURI
+- [x] End-To-End Manual Testnet Test
+- [x] Viewing on Opensea
 # Lesson 12: [Upgrades](https://github.com/PatrickAlphaC/upgrades-mix)
 💻 Code: https://github.com/PatrickAlphaC/upgrades-mix
 
