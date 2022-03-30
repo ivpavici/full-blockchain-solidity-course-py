@@ -566,46 +566,29 @@ Welcome to the repository for the Ultimate Solidity, Blockchain, and Smart Contr
 💻 Code: https://github.com/PatrickAlphaC/upgrades-mix
 
 ### Introduction to upgrading smart contracts
-- [ ] [Original Video](https://www.youtube.com/watch?v=bdXJmWajZRY)
-- [ ] Smart Contracts can be upgraded!
-- [ ] Does this mean they are not immutable? 
-- [ ] [Trail of Bits on Upgradeable Smart Contracts](https://blog.trailofbits.com/2018/09/05/contract-upgrade-anti-patterns/)
-- [ ] The "Not Really Upgrading" / Parameterization Method
-- [ ] The Social Yeet / Migration Method
-- [ ] [Contract Migration](https://blog.trailofbits.com/2018/10/29/how-contract-migration-works/)
-- [ ] Proxies
-  - [ ] DelegateCall
-  - [ ] Terminology:
-    - [ ] Implementation Contract
-    - [ ] Proxy Contract
-    - [ ] User
-    - [ ] Admin
-  - [ ] Gotchas:
-    - [ ] Storage Clashes
-    - [ ] Function Selector
-    - [ ] Function Selector Clashes
-  - [ ] Proxy Patterns:
-    - [ ] [Transparent Proxy Pattern](https://blog.openzeppelin.com/the-transparent-proxy-pattern/)
-    - [ ] [Universal Upgrade Proxy Standard](https://eips.ethereum.org/EIPS/eip-1822)
-    - [ ] [Diamond/Multi-Facet Proxy](https://eips.ethereum.org/EIPS/eip-2535)
-### Upgrades-mix and code
-- [ ] Setup
-- [ ] `Box.sol`
-- [ ] `BoxV2.sol`
-- [ ] Getting the proxy contracts
-- [ ] [Openzeppelin Proxy Github](https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts/proxy/transparent)
-- [ ] `01_deploy_box.py`
-- [ ] Hooking up a proxy to our implementation contract
-- [ ] (Optional) [Creating a Gnosis Safe](https://help.gnosis-safe.io/en/articles/3876461-create-a-safe)
-- [ ] Initializers
-- [ ] Encoding Initializer Function
-- [ ] Assigning ABI to a proxy
-- [ ] Running the script
-- [ ] Upgrade Python Function
-### Testing Upgrades
-- [ ] Testing our proxy
-- [ ] Testing our upgrades
-### Upgrades on a testnet
+- [x] [Original Video](https://www.youtube.com/watch?v=bdXJmWajZRY)
+- [x] Smart Contracts can be upgraded!
+- [x] Does this mean they are not immutable? 
+- [x] [Trail of Bits on Upgradeable Smart Contracts](https://blog.trailofbits.com/2018/09/05/contract-upgrade-anti-patterns/)
+- [x] The "Not Really Upgrading" / Parameterization Method
+- [x] The Social Yeet / Migration Method
+- [x] [Contract Migration](https://blog.trailofbits.com/2018/10/29/how-contract-migration-works/)
+- [x] Proxies
+  - [x] DelegateCall
+  - [x] Terminology:
+    - [x] Implementation Contract
+    - [x] Proxy Contract
+    - [x] User
+    - [x] Admin
+  - [x] Gotchas:
+    - [x] Storage Clashes
+    - [x] Function Selector
+    - [x] Function Selector Clashes
+  - [x] Proxy Patterns:
+    - [x] [Transparent Proxy Pattern](https://blog.openzeppelin.com/the-transparent-proxy-pattern/)
+    - [x] [Universal Upgrade Proxy Standard](https://eips.ethereum.org/EIPS/eip-1822)
+    - [x] [Diamond/Multi-Facet Proxy](https://eips.ethereum.org/EIPS/eip-2535)
+
 # Bonus Lesson 13: [Full Stack Defi](https://github.com/PatrickAlphaC/defi-stake-yield-brownie-freecode)
 💻 Code: https://github.com/PatrickAlphaC/defi-stake-yield-brownie-freecode
 
