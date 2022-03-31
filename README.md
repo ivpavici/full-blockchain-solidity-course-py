@@ -663,16 +663,16 @@ Welcome to the repository for the Ultimate Solidity, Blockchain, and Smart Contr
 
 # Closing and Summary
 ## Security
-- [ ] [Best Practices](https://consensys.github.io/smart-contract-best-practices/)
-- [ ] [Attacks](https://consensys.github.io/smart-contract-best-practices/known_attacks/)
-  - [ ] [Oracle Attacks](https://hackernoon.com/how-dollar100m-got-stolen-from-defi-in-2021-price-oracle-manipulation-and-flash-loan-attacks-explained-3n6q33r1)
-  - [ ] [Re-entrancy Attacks](https://quantstamp.com/blog/what-is-a-re-entrancy-attack)
-- [ ] [Damn Vulnerable Defi](https://www.damnvulnerabledefi.xyz/)
-- [ ] [Ethernaut](https://ethernaut.openzeppelin.com/)
-- [ ] Some Auditors
-  - [ ] [OpenZeppelin](https://openzeppelin.com/)
-  - [ ] [SigmaPrime](https://sigmaprime.io/)
-  - [ ] [Trail of Bits](https://www.trailofbits.com/)
+- [x] [Best Practices](https://consensys.github.io/smart-contract-best-practices/)
+- [x] [Attacks](https://consensys.github.io/smart-contract-best-practices/known_attacks/)
+  - [x] [Oracle Attacks](https://hackernoon.com/how-dollar100m-got-stolen-from-defi-in-2021-price-oracle-manipulation-and-flash-loan-attacks-explained-3n6q33r1)
+  - [x] [Re-entrancy Attacks](https://quantstamp.com/blog/what-is-a-re-entrancy-attack)
+- [x] [Damn Vulnerable Defi](https://www.damnvulnerabledefi.xyz/)
+- [x] [Ethernaut](https://ethernaut.openzeppelin.com/)
+- [x] Some Auditors
+  - [x] [OpenZeppelin](https://openzeppelin.com/)
+  - [x] [SigmaPrime](https://sigmaprime.io/)
+  - [x] [Trail of Bits](https://www.trailofbits.com/)
 ## Where do I go now?
 ### Learning More
 - [x] [CryptoZombies](https://cryptozombies.io/)
